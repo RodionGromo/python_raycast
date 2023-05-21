@@ -1,0 +1,8 @@
+gameMode 1
+GMScreenW 1920
+GMScreenH 1080
+MMScreenW 1280
+MMScreenH 640
+fov 90
+density 1
+maxRange 200
