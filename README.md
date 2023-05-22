@@ -1,5 +1,5 @@
 ## What is this, exactly?
-This is a raycasting test, the one used in old games like Doom
+This is a raycasting test, the one used in old games like Doom<br>
 I had a good time trying to figure out what does what, but in the end it was worth it!
 ## How to run it?
 You will need:
